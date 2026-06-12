@@ -1,0 +1,53 @@
+ 
+BANDARI VINEETH KUMAR 
+Hyderabad | +91 9515049278 |  vineethbandari20@gmail.com | https://www.linkedin.com/in/vineethbandari20/ 
+Objective         
+        
+Results-driven ECE undergraduate and aspiring software engineer with expertise in Python, Data Analytics, Machine Learning, 
+and Web Development. Proficient in data processing, REST APIs, and problem-solving. Passionate about building scalable 
+solutions in Agile environments.  
+Experience 
+ Web Development Intern – Internship Studio (May 2025 – June 2025) 
+• Developed 3+ responsive web applications using HTML, CSS, and JavaScript, improving cross-device compatibility 
+and reducing load time by ~20% 
+• Implemented RESTful backend APIs using Node.js, enabling efficient data exchange across 5+ endpoints with 
+version control via Git 
+• Integrated 4+ third-party APIs for dynamic data handling, reducing manual data processing time by ~30% 
+ 
+Education 
+ 
+Degree Institute GPA / Grade Year 
+B.Tech Vignan Institute Of Technology and Science 8.5 2023-2027 
+Intermediate Sri Chaitanya Junior Kalasala 88 2021-2023 
+SSC Sri Chaitanya Techno School 10 2020-2021 
+ 
+Projects 
+ AI-Based Prescription Verification System:  
+• Built an AI-powered system using OCR, NLP, and Python achieving 95% accuracy, processing 500+ prescription 
+records per batch 
+• Reduced prescription errors by 50% using ML-based dosage validation and duplicate drug detection across 1,000+ 
+drug records  
+• Tech Stack: Python, NLP, Pandas, NumPy 
+ Pothole Management System: 
+• Designed a data-driven system to detect, report, and prioritize potholes, cutting manual reporting time by ~40% and 
+improving road maintenance efficiency. 
+• Built a real-time dashboard tracking 200+ pothole reports using web technologies 
+• Tech Stack: HTML, CSS, JavaScript, Node.js, MongoDB 
+ 
+Certifications 
+ 
+ Deloitte Australia – Data Analytics (2024) 
+ Tata – GenAI Powered Data Analytics (2024) 
+ Infosys Springboard – C/C++ Fundamentals (2023) 
+Achievements  
+ Smart India Hackathon 2025 Grand Finalist (Top 1% among national participants). 
+ Winner at Neurax Hackathon. 
+ Participant in Agentathon, a Guinness World Record hackathon organized by Google Developer Groups. 
+ LeetCode - Solved 100+ DSA problems with focus on Trees, Graphs, and Dynamic Programming 
+Skills 
+ Programming Languages: C, Python, Java 
+ Web Development: HTML, CSS, JavaScript, React, Node.js  
+ Data Analytics: Python(Pandas, NumPy, Matplotlib), SQL, Excel, Power BI  
+ Data Structures & Algorithms: Arrays, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming  
+ Tools: Git, GitHub, VSCode, PostMan, Jupyter Notebook  
+ Concepts: Machine Learning, Data Visualization, REST APIs, Agile, CI/CD  
